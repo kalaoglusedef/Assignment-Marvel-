@@ -36,6 +36,7 @@ header > .logo {
 }
 
 .card {
+  transition: 0.5s all ease-in-out;
   width: 252px;
   height: 369px;
   border: 1px solid white;
